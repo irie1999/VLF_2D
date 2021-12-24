@@ -1,0 +1,17 @@
+data/
+Debug/
+Release/
+*.dat
+!/apf107.dat
+!/dgrf*.dat
+!/ig_rz.dat
+!/igrf*.dat
+!/mcsat*.dat
+*.gpt
+*.tgz
+*.o
+main
+.cproject
+.project
+.settings/
+log.txt
