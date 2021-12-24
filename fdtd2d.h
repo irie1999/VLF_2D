@@ -13,7 +13,6 @@ constexpr double MASS_e { 9.1e-31 }; //[kg]
 constexpr double R0 { 6370.0e3 }; /* Radius of Earth */
 constexpr double M2KM { 1.0e-3 };
 
-/*GA parameter*/
 constexpr int Nr_ini { 100 };
 constexpr int Nr_end { 900 };
 constexpr int Nr_GA { Nr_end - Nr_ini };
